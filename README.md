@@ -7,7 +7,8 @@ The process is mainly divided in 4 major steps:
 3. Training the classifier
 4. Testing the performance
 
-In order to train the model/Classifier we are using C-Support Vector Classification (SVC)
+In order to train the model/Classifier we are using C-Support Vector Classification (SVC) 
+for more detail follow this [documentation](https://scikit-learn.org/1.5/modules/generated/sklearn.svm.SVC.html) 
 
 In order to run this project:
 
