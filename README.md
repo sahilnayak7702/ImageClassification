@@ -11,6 +11,7 @@ In order to train the model/Classifier we are using C-Support Vector Classificat
 for more detail follow this [documentation](https://scikit-learn.org/1.5/modules/generated/sklearn.svm.SVC.html) 
 
 In order to run this project:
-
+```
 1. pip install -r requirements.txt 
 2. run main.py file
+```
