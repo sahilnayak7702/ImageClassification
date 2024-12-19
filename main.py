@@ -9,7 +9,7 @@ from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
 
 # prepare data
-input_dir = r'C:\Users\91760\Football_analysis\Computer_Vision_learnings\Image_Classification\clf-data'
+input_dir = r'path\to\your\clf-data'
 categories = ['empty', 'not_empty']
 data = []
 labels = []
